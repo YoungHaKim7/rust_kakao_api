@@ -1,0 +1,9 @@
+[package]
+name = "kakao_api_01"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4.8.0"
+kakao-rs = "0.3.7"
+serde_json = "1.0.122"

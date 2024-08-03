@@ -1,0 +1,35 @@
+{
+    "intent": {
+        "id": "hequ",
+        "name": "블록 이름"
+    },
+    "userRequest": {
+        "timezone": "Asia/Seoul",
+        "params": {
+            "ignoreMe": "true"
+        },
+        "block": {
+            "id": "op",
+            "name": "블록 이름"
+        },
+        "utterance": "발화 내용",
+        "lang": null,
+        "user": {
+            "id": "138",
+            "type": "accountId",
+            "properties": {}
+        }
+    },
+    "bot": {
+        "id": "5fe45a6",
+        "name": "봇 이름"
+    },
+    "action": {
+        "name": "yl",
+        "clientExtra": null,
+        "params": {},
+        "id": "xx89p2dlfm",
+        "detailParams": {}
+    }
+}
+// [ source: http://rust-study.ajousw.kr/ ]
